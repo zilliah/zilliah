@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Kerry</h1>
-<h3 align="center">Full stack developer and textile artist</h3>
+<h1 align="left">Hello, I'm Kerry</h1>
+<h3 align="left">Full stack developer and textile artist</h3>
 
 - :thread: I’m currently working on [X Stitch Space](https://github.com/zilliah/xstitch-space), a community space for cross stitchers
 - :woman: Pronouns: she/hers
